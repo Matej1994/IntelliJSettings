@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/Matej1994/LuxuryCars.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/JaskiCoders/projekt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Mateusz\IdeaProjects" />
